@@ -8,15 +8,13 @@ using namespace std;
 int main()
 {
 	cout << "==========================================================================\n";
-	cout << "||Bienvendio, este programa te permite calcular el IVA de un producto.||\n";
+	cout << "||Bienvendio, este programa te permite calcular el area de un cuadrado.||\n";
 	cout << "==========================================================================\n";
+	float area;
+	float lado;
 
-	float IVA;
-	float Costo;
-	float
-
-	cout << "||Introduzca precio del producto:                                                      ||\n";
-	cin >> Costo;
+	cout << "||Introduzca lado:                                                      ||\n";
+	cin >> lado;
 
 	area = lado * lado;
 
@@ -25,3 +23,4 @@ int main()
 
 	return 0;
 }
+

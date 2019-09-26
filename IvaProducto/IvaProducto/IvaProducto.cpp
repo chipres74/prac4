@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
 	cout << "==========================================================================\n";
-	cout << "||Bienvendio, este programa te permite calcular el IVA de un producto.||\n";
+	cout << "||Bienvendio, este programa te permite calcular el producto sin iva y el total de iva.||\n";
 	cout << "==========================================================================\n";
 
 	float Iva;
